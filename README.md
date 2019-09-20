@@ -9,3 +9,4 @@ Exercism's Ruby Track
 2. [Two Fer](/two-fer)
 3. [Resistor Color Duo](/resistor-color-duo)
 4. [Acronym](/acronym)
+5. [High Scores](/high-scores)
