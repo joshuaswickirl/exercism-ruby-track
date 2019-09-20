@@ -8,3 +8,4 @@ Exercism's Ruby Track
 1. [Hello World](/hello-world)
 2. [Two Fer](/two-fer)
 3. [Resistor Color Duo](/resistor-color-duo)
+4. [Acronym](/acronym)
